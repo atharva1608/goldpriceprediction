@@ -48,4 +48,9 @@ https://github.com/atharva1608/goldpriceprediction
 
 **Actual Price VS Predicted Price**
 ![**graph**](https://github.com/atharva1608/goldpriceprediction/blob/master/predicted_vs_actual_prices.png)
+
+## Contributor
+* [Atharva Sachitanand Alshi](https://github.com/atharva1608)
+
+
  
