@@ -42,6 +42,9 @@ pip3 install yahoo-finance
 ```sh
 https://github.com/atharva1608/goldpriceprediction
 ```
+## Results
+**Cumulative Returns**
+|<img width="500" height="600" src="https://github.com/atharva1608/goldpriceprediction/blob/master/cumulative_returns.png">|
 
 
  
