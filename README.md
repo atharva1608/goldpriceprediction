@@ -45,4 +45,7 @@ https://github.com/atharva1608/goldpriceprediction
 ## Results
 **Cumulative Returns**
 ![**cumulative-returns**](https://github.com/atharva1608/goldpriceprediction/blob/master/cumulative_returns.png)
+
+**Actual Price VS Predicted Price**
+![**graph**](https://github.com/atharva1608/goldpriceprediction/blob/master/predicted_vs_actual_prices.png)
  
