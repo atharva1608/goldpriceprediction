@@ -22,17 +22,21 @@ Detecting the gold price gives us the brief idea that what will be the price.By 
 ### Prerequisites
 * List of softwares with version tested on
 Download and run *Python3* file for suitable OS from the link
-'''sh
+Download and run *Python3* file for suitable OS from the link
+```sh
 https://www.python.org/downloads/
-'''
+```
+
 Download and run *pip3* for suitable OS
-Refer the below link for further instruction 
-'''sh
+Refer the below link for further instructions
+```sh
 https://pip.pypa.io/en/stable/installing/
-'''
+```
+
 To install yahoo finance library 
-'''sh
+```sh
 pip3 install yahoo-finance
-'''
+```
+
 
  
