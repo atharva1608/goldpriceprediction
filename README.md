@@ -44,7 +44,5 @@ https://github.com/atharva1608/goldpriceprediction
 ```
 ## Results
 **Cumulative Returns**
-|<img width="500" height="600" src="https://github.com/atharva1608/goldpriceprediction/blob/master/cumulative_returns.png">|
-
-
+![**cumulative-returns**](https://github.com/atharva1608/goldpriceprediction/blob/master/cumulative_returns.png)
  
