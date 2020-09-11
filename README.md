@@ -37,6 +37,11 @@ To install yahoo finance library
 ```sh
 pip3 install yahoo-finance
 ```
+### Installation
+* Clone the repo
+```sh
+https://github.com/atharva1608/goldpriceprediction
+```
 
 
  
